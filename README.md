@@ -13,7 +13,7 @@ rpu.py yourpythonscript.py [delaytime]
 ## Demo
 <img src="https://github.com/raspiduino/rpu/raw/main/demo.gif" width="683" height="384"/>
 
-<br>You can download the video <a href="https://github.com/raspiduino/rpu/raw/main/demo.webm">here</a>
+<br>You can download the video <a href="https://github.com/raspiduino/rpu/raw/main/demo.webm">here</a> or <a href="https://user-images.githubusercontent.com/68118236/106348916-73434080-62fc-11eb-9eb6-07bef19a0409.mp4">here</a>
 <br>Or you can watch the video in <a href="https://github.com/raspiduino/rpu/releases">Release</a>
 <br>You can try hello.py or pygametest.py in the repo.
 
