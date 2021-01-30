@@ -23,4 +23,9 @@ test.fill([255,255,255])
 
 pygame.draw.rect(test, (15,49,86), (50, 70, 200, 100))
 
+for event in pygame.event.get():
+    if event.type == pygame.QUIT:
+        pygame.quit()
+        sys.exit()
+
 pygame.display.update()
