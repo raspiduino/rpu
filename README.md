@@ -10,6 +10,8 @@ rpu.py yourpythonscript.py [delaytime]
 <br>Delay time is in second. Default is 5 sec
 <br>If you just enter ```rpu.py``` or ```rpu.py help```, it will display a simple help.
 
+<br>In your editor, you can use CTRL+S for saving and update the program, or you can install autosave extentions, like <a href="https://marketplace.visualstudio.com/items?itemName=HRai.AutoSaveFile">this</a> for Visual Studio/Visual Studio Code, or <a href="https://github.com/francostellari/NppPlugins/tree/main/AutoSave">this</a> for Notepad++, or the sublimetext.py for Sublime Text.
+
 ## Demo
 <img src="https://github.com/raspiduino/rpu/raw/main/demo.gif" width="683" height="384"/>
 
